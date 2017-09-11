@@ -1,0 +1,23 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "flashcard project",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psd314/Flashcard-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psd314/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/psd314/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.3",
+    "require": "^2.4.20"
+  }
+}
